@@ -8,6 +8,8 @@
  * @authorId 48494
 */
 @import url(https://vsthemes.org/uploads/generator/client/BasicBackground.css);
+@import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
 :root {
     --transparencycolor: 0,0,0;
     --transparencyalpha: 0.05;
